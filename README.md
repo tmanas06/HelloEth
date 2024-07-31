@@ -1,3 +1,13 @@
+# A simple hello World project
+This is a basic hello world project deployed on etherium sepolia testnet...
+
+# Output 
+![metaschol](https://github.com/user-attachments/assets/7a8515b5-3fe6-49b0-9324-75d6d9b97d87)
+
+# facuet used
+```bash
+https://faucets.chain.link/sepolia
+```
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
